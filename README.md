@@ -16,12 +16,12 @@ All work is contained in a single Jupyter Notebook:
 assignment2.ipynb
 
 ## Project Structure
-assignment2/
-│
-├── assignment2.ipynb # Main notebook containing Parts 1–3
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Files excluded from version control
+assignment2/  
+│  
+├── assignment2.ipynb # Main notebook containing Parts 1–3  
+├── requirements.txt # Python dependencies  
+├── README.md # Project documentation  
+└── .gitignore # Files excluded from version control  
 
 ## Requirements
 
@@ -47,4 +47,5 @@ pip install -r requirements.txt
 ## Notes
 
 - Dataset files are not included in this repository as required by the assignment instructions.
+
 - Model files and intermediate outputs are excluded using `.gitignore`
